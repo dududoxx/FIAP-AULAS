@@ -1,3 +1,18 @@
+# velocidade = int(input('Qual é a sua velocidade?'))
+# if velocidade >= 80:
+#     multa = (velocidade -80) * 5
+#     print(f'Você foi multado! Pague R${multa}!')
+# else:
+#     print('Você não foi multado! Parabéns!')
+
+# A = int(input("Valor 1:"))
+# B = int(input("Valor 2:"))
+# C = int(input("Valor 3:"))
+# if A>B and A>C:
+#     print('A é o maior valor!')
+# elif B>A and B>C:
+#     print('B é o maior valor!')
+# elif C>A and C>B:
 #     print('C é o maior valor!')
 
 # salario = float(input('Qual é o seu salario?'))
@@ -25,3 +40,8 @@
 #     menor = n3
 # print(f"O Maior número é {maior}")
 # print(f"O Menor número é {menor}")
+
+
+
+
+
